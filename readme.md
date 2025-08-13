@@ -1,3 +1,1 @@
-elmlmdlf;lwadlwaf;lvml;dvmc
-ld,v;ld,v'p;
-dmslvs
+This repository contains all of my Capstone Projects.
